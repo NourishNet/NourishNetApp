@@ -46,7 +46,7 @@ healthily utilize household food supplies.
 
 ### Frontend:
 
-* The Frontend is built with HTML, CSS, JS, React.js 
+* The Frontend is built with HTML, CSS, JS, Bootstrap, & React.js
 * Generic Crud Component (Module) (Create / Read / Update / Delete)
 * Admin (User) Management Module
 * Auth Component Login / Logout

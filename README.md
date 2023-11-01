@@ -57,7 +57,7 @@ healthily utilize household food supplies.
 ## Installation
 
 1. Clone the repository: 
-```git clone https://github.com/NourishNet/NourishNetApp```
+```git clone https://github.com/NourishNet/NourishNetApp.git```
 2. Navigate to the project directory: 
 ```cd NourishNetApp```
 3. Install the required dependencies: 
@@ -69,7 +69,6 @@ healthily utilize household food supplies.
 ```npm start```
 2. Access the app in your web browser at 
 ```http://localhost:3000```
-
 
 ## Contributing
 

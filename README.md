@@ -30,8 +30,8 @@ healthily utilize household food supplies.
 - Cooking Companion: A comprehensive recipe book that will guide each user to finding recipes based on thier unique dietary lifestyle and health restrictions.
 - Skill-Level Sorting: A system that will encourage users that aren't traditionally skilled in cooking to gaining skills in a fun and effective manner. 
 - Dynamic Suggestions: Recommendations for the user based on thier data, feedback and eating habits. 
--Social Sharing: See top viewed and/or rated recipes and see comments from users. Share recipes or ingrediens lists with friends, family, and community groups. 
--User Badges: A system that will show if a user is a verified professional nutritionist, chef, and or top rated contributer.
+- Social Sharing: See top viewed and/or rated recipes and see comments from users. Share recipes or ingrediens lists with friends, family, and community groups. 
+- User Badges: A system that will show if a user is a verified professional nutritionist, chef, and or top rated contributer.
 
 
 ![Cookbook](./public/images/cookbook.png)

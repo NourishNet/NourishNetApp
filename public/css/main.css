@@ -471,7 +471,7 @@ Recipes
   transition: var(--transition);
 }
 .tags-list a:hover {
-  color: var(--primary-500);
+  color: var(--lime);
 }
 .recipe {
   display: block;
